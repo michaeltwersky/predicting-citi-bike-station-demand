@@ -10,16 +10,23 @@ My work aims to train a reliable machine learning model that accurately predicts
 
 ## Description of the Data
 
-Obtained directly from Citi Bike, historical weather data, and the City of New York's NYC Open Data, the data consists of three files:
+Obtained directly from Citi Bike, historical weather data, and the City of New York's NYC Open Data, the data consists of seven files:
 
-- `contract.csv`: contract information
+- `202408-citibike-tripdata_1.csv`: ride data for the month of August, 2024
 
-- `personal.csv`: the customer's personal data
+- `202408-citibike-tripdata_2.csv`: ride data for the month of August, 2024
 
-- `internet.csv`: information about internet services
+- `202408-citibike-tripdata_3.csv`: ride data for the month of August, 2024
 
-- `phone.csv`: information about telephone services
+- `202408-citibike-tripdata_4.csv`: ride data for the month of August, 2024
 
+- `202408-citibike-tripdata_5.csv`: ride data for the month of August, 2024
+
+- `weather_data_2024.csv`: historical weather in NYC
+
+- `Borough_boundaries_20251104.csv`: NYC borough boundaries by latitude and longitude
+
+Download all files from the [v1.0 release page](https://github.com/michaeltwersky/applied-ml-project/releases/tag/data)
 
 ## Tools
 
@@ -39,13 +46,3 @@ Obtained directly from Citi Bike, historical weather data, and the City of New Y
 
 ![alt text](https://github.com/michaeltwersky/Data_Projects_TripleTen/blob/main/Sprint%2017%20-%20Final%20Project/Images/Image%201.png)
 
-
-
-### Data
-
-Download all files from the [v1.0 release page](https://github.com/michaeltwersky/applied-ml-project/releases/tag/data)
-
-#### Setup Instructions
-1. Download the datasets using the links above
-2. Place them in the `data/` folder
-3. Run citibike_data.ipynb
