@@ -44,5 +44,8 @@ Download all files from the [v1.0 release page](https://github.com/michaeltwersk
 
 ## Examples of Charts
 
-![alt text](https://github.com/michaeltwersky/Data_Projects_TripleTen/blob/main/Sprint%2017%20-%20Final%20Project/Images/Image%201.png)
+![alt text](https://github.com/michaeltwersky/predicting-citi-bike-station-demand/blob/main/images/5.jpg)
+![alt text](https://github.com/michaeltwersky/predicting-citi-bike-station-demand/blob/main/images/6.jpg)
+![alt text](https://github.com/michaeltwersky/predicting-citi-bike-station-demand/blob/main/images/7.jpg)
+![alt text](https://github.com/michaeltwersky/predicting-citi-bike-station-demand/blob/main/images/8.jpg)
 
