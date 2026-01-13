@@ -50,10 +50,8 @@ Download all files from the [v1.0 release page](https://github.com/michaeltwersk
 
 ![alt text](https://github.com/michaeltwersky/predicting-citi-bike-station-demand/blob/main/images/7.jpg)
 
-![alt text](https://github.com/michaeltwersky/predicting-citi-bike-station-demand/blob/main/images/8.jpg)
-
 ![alt text](https://github.com/michaeltwersky/predicting-citi-bike-station-demand/blob/main/images/3.jpg)
 
 ![alt text](https://github.com/michaeltwersky/predicting-citi-bike-station-demand/blob/main/images/4.jpg)
 
-
+![alt text](https://github.com/michaeltwersky/predicting-citi-bike-station-demand/blob/main/images/8.jpg)
