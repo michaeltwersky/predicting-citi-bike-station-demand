@@ -10,7 +10,7 @@ My work aims to train a reliable machine learning model that accurately predicts
 
 ## Description of the Data
 
-Obtained directly from Citi Bike, historical weather data, and the City of New York's NYC Open Data, the data consists of seven files:
+Obtained directly from Citi Bike, NYC weather stations, and the City of New York's NYC Open Data Project, the data consists of seven files:
 
 - `202408-citibike-tripdata_1.csv`: ride data for the month of August, 2024
 
